@@ -1,20 +1,20 @@
 {
-  "name": "<INPUT REPOSITORY NAME>",
+  "name": "docker-certbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A docker-compose for certbot",
   "scripts": {
     "overrideChangelog": "gren changelog --override"
   },
   "repository": {
     "type": "git",
-    "url": "git+<INPUT GIT URL> ex. https://github.com/woodonggyu/default-repo-template.git"
+    "url": "git+https://github.com/woodonggyu/docker-certbot.git"
   },
   "author": "Donggyu Woo",
   "license": "MIT",
   "bugs": {
-    "url": "<INPUT REPOSITORY URL>/issues"
+    "url": "https://github.com/woodonggyu/docker-certbot/issues"
   },
-  "homepage": "<INPUT REPOSITORY URL>#readme",
+  "homepage": "https://github.com/woodonggyu/docker-certbot#readme",
   "dependencies": {
     "github-release-notes": "^0.17.3"
   }
